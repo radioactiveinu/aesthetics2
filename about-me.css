@@ -1,0 +1,33 @@
+body {
+        background-image: url("https://i.pinimg.com/originals/f2/90/7e/f2907e9d6e445f5593be033f911dc2d0.jpg");
+}
+
+h1 {
+  font-size: 25pt;
+  font-style: italic;
+  color: #9669FE;
+  font-family: "aestheticfont";
+}
+
+p{
+  text-align: center;
+}
+
+body {
+  font-size: 15pt;
+  font-family: "aestheticfont";
+  color: #9669FE;
+}
+
+@font-face {
+
+  font-family: aestheticfont;
+  src: url("aestheticfont.ttf");
+}
+
+{
+  text-align: center;
+}
+p{
+  margin-left: 35pt;
+}
